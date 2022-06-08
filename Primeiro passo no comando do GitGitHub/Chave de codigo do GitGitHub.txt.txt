@@ -1,0 +1,11 @@
+O Git em alguns comando ultilizado no terminal local a ser usado como.
+
+* Git Status: ( serve para visualiza o que tem dentro do aquivos)
+* Git add . ou -a (serve para adcionar tudo aquivos no repositorio )
+* Git commint -m ( serve para comenta o aquivos )
+* Git Push origem main ( enviar o aquivos para a nuve ) 
+* Readme ( e pagima inicial do repositorio)
+
+Obs curso de introdução á Git Github da DIO
+
+
